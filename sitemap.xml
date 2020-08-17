@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cvb.com/index.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://cvb.com/images/411axo%20strates-crop-u2403.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cvb.com/images/perspectives-crop-u2399.jpg</image:loc>
+      <image:loc>http://cvb.com/images/73011845_401266217488784_7122316950964797440_n-crop-u2397.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cvb.com/images/73011845_401266217488784_7122316950964797440_n-crop-u2397.jpg</image:loc>
+      <image:loc>http://cvb.com/images/perspectives-crop-u2399.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cvb.com/images/perspec%204-crop-u2401.jpg</image:loc>
@@ -23,24 +23,9 @@
   </url>
   <url>
     <loc>http://cvb.com/elitescarabaeus.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cvb.com/images/41axo%20strates-crop-u3625.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cvb.com/images/61%20entr%C3%A9e-crop-u3891.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cvb.com/images/62%20petite%20salle-crop-u3919.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cvb.com/images/63%20salle%20de%20th%C3%A9%C3%A2tre-crop-u3947.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cvb.com/images/64%20colonne%20corinthienne-crop-u3975.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://cvb.com/images/htc%20plan%20r-1-crop-u3645.jpg</image:loc>
     </image:image>
@@ -52,6 +37,12 @@
     </image:image>
     <image:image>
       <image:loc>http://cvb.com/images/photoshop%20plan%20r-2-crop-u3850.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cvb.com/images/61%20entr%C3%A9e-crop-u4947.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cvb.com/images/62%20petite%20salle-crop-u4975.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -73,24 +64,27 @@
     </image:image>
   </url>
   <url>
-    <loc>http://cvb.com/autres------.html</loc>
-    <lastmod>2020-08-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://cvb.com/contact.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cvb.com/l-escault.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://cvb.com/images/perspectives%202-crop-u4439.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cvb.com/images/plan%201-crop-u4863.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cvb.com/images/plan%200-crop-u4891.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cvb.com/images/coupe%20perspective-crop-u4919.jpg</image:loc>
     </image:image>
   </url>
   <url>

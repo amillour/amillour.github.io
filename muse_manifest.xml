@@ -1,30 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cvb.com" resolutions="1x" timestamp="1597686919369">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cvb.com" resolutions="1x" timestamp="1597700958663">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-gabarit.css" crc="458642879" ref="intramuros-2:l-escault:intramuros-1:elitescarabaeus:pandreijte"/>
-    <file name="master_a-gabarit.css" crc="246564608" ref="index:contact:autres------"/>
-    <file name="intramuros-2.css" crc="4152793122" ref="intramuros-2"/>
-    <file name="l-escault.css" crc="4014412173" ref="l-escault"/>
-    <file name="index.css" crc="31892059" ref="index"/>
-    <file name="intramuros-1.css" crc="298400545" ref="intramuros-1"/>
-    <file name="elitescarabaeus.css" crc="4267665156" ref="elitescarabaeus"/>
-    <file name="contact.css" crc="280271343" ref="contact"/>
-    <file name="autres------.css" crc="240916428" ref="autres------"/>
-    <file name="pandreijte.css" crc="4193112088" ref="pandreijte"/>
+    <file name="master_a-gabarit.css" crc="373680825" ref="index:contact"/>
+    <file name="master_b-gabarit.css" crc="283712231" ref="intramuros-1:elitescarabaeus:intramuros-2:pandreijte:l-escault"/>
+    <file name="intramuros-1.css" crc="7131111" ref="intramuros-1"/>
+    <file name="elitescarabaeus.css" crc="329595407" ref="elitescarabaeus"/>
+    <file name="intramuros-2.css" crc="3953996222" ref="intramuros-2"/>
+    <file name="pandreijte.css" crc="233916527" ref="pandreijte"/>
+    <file name="index.css" crc="4047413518" ref="index"/>
+    <file name="l-escault.css" crc="4178432634" ref="l-escault"/>
+    <file name="contact.css" crc="330005863" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="2eme-quadri---perpectives.pdf" crc="188950893" seo="true" mt="1558971883000"/>
     <file name="coupe-perspective.pdf" crc="40655896" seo="true" mt="1596916172000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="museutils.js" crc="3803043152" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:autres------:contact"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="require.js" crc="4157109226" ref="index:autres------:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="webpro.js" crc="242022427" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="musewpslideshow.js" crc="457073769" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
@@ -34,10 +33,10 @@
     <file name="411axo strates-crop-u2403.jpg" crc="146100773" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="perspectives-crop-u2399.jpg" crc="3829570350" seo="true" ref="index">
+    <file name="73011845_401266217488784_7122316950964797440_n-crop-u2397.jpg" crc="70600171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="73011845_401266217488784_7122316950964797440_n-crop-u2397.jpg" crc="70600171" seo="true" ref="index">
+    <file name="perspectives-crop-u2399.jpg" crc="380384944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="perspec 4-crop-u2401.jpg" crc="4258587111" seo="true" ref="index">
@@ -46,26 +45,10 @@
     <file name="louvre-venus-di-milo-dreamstime-800-2x1-crop-u3995.jpg" crc="4237787067" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="41axo strates-crop-u3625.jpg" crc="536288776" seo="true" ref="elitescarabaeus">
-      <caption webpage="elitescarabaeus" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
-    <file name="61 entrée-crop-u3891.jpg" crc="4238245028" seo="true" ref="elitescarabaeus">
-      <caption webpage="elitescarabaeus" alt=""/>
-    </file>
-    <file name="62 petite salle-crop-u3919.jpg" crc="4217909645" seo="true" ref="elitescarabaeus">
-      <caption webpage="elitescarabaeus" alt=""/>
-    </file>
-    <file name="63 salle de théâtre-crop-u3947.jpg" crc="224746743" seo="true" ref="elitescarabaeus">
-      <caption webpage="elitescarabaeus" alt=""/>
-    </file>
-    <file name="64 colonne corinthienne-crop-u3975.jpg" crc="3984702542" seo="true" ref="elitescarabaeus">
-      <caption webpage="elitescarabaeus" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="htc plan r-1-crop-u3645.jpg" crc="3992792395" seo="true" ref="elitescarabaeus">
       <caption webpage="elitescarabaeus" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="photoshop plan rdc-crop-u3794.jpg" crc="3781493041" seo="true" ref="elitescarabaeus">
       <caption webpage="elitescarabaeus" alt=""/>
     </file>
@@ -75,6 +58,13 @@
     <file name="photoshop plan r-2-crop-u3850.jpg" crc="168704911" seo="true" ref="elitescarabaeus">
       <caption webpage="elitescarabaeus" alt=""/>
     </file>
+    <file name="61 entrée-crop-u4947.jpg" crc="4252386727" seo="true" ref="elitescarabaeus">
+      <caption webpage="elitescarabaeus" alt=""/>
+    </file>
+    <file name="62 petite salle-crop-u4975.jpg" crc="301955242" seo="true" ref="elitescarabaeus">
+      <caption webpage="elitescarabaeus" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="elitescarabaeus:pandreijte:l-escault:intramuros-1:intramuros-2"/>
     <file name="73011845_401266217488784_7122316950964797440_n-crop-u2923.jpg" crc="4245680317" seo="true" ref="pandreijte">
       <caption webpage="pandreijte" alt=""/>
     </file>
@@ -88,6 +78,15 @@
       <caption webpage="pandreijte" alt=""/>
     </file>
     <file name="perspectives 2-crop-u4439.jpg" crc="4260548985" seo="true" ref="l-escault">
+      <caption webpage="l-escault" alt=""/>
+    </file>
+    <file name="plan 1-crop-u4863.jpg" crc="3948435151" seo="true" ref="l-escault">
+      <caption webpage="l-escault" alt=""/>
+    </file>
+    <file name="plan 0-crop-u4891.jpg" crc="235462010" seo="true" ref="l-escault">
+      <caption webpage="l-escault" alt=""/>
+    </file>
+    <file name="coupe perspective-crop-u4919.jpg" crc="469666658" seo="true" ref="l-escault">
       <caption webpage="l-escault" alt=""/>
     </file>
     <file name="venus photo 2.jpg" crc="3909203916" seo="true" ref="intramuros-1">
@@ -118,12 +117,11 @@
       <caption webpage="intramuros-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="468761715" seo="true" mt="1597256630332" redirect="true"/>
-  <file name="autres------.html" crc="205165052" seo="true" mt="1597256630332" redirect="true"/>
-  <file name="contact.html" crc="382670371" seo="true" mt="1597256630332" redirect="true"/>
-  <file name="elitescarabaeus.html" crc="3802004239" seo="true" mt="1597256639434" redirect="true"/>
-  <file name="pandreijte.html" crc="511065363" seo="true" mt="1597257467419" redirect="true"/>
-  <file name="l-escault.html" crc="507331188" seo="true" mt="1597256639434" redirect="true"/>
-  <file name="intramuros-1.html" crc="3999926137" seo="true" mt="1597256639434" redirect="true"/>
-  <file name="intramuros-2.html" crc="102962058" seo="true" mt="1597256639434" redirect="true"/>
+  <file name="index.html" crc="489157410" seo="true" mt="1597689269294" redirect="true"/>
+  <file name="contact.html" crc="291947096" seo="true" mt="1597700197701" redirect="true"/>
+  <file name="elitescarabaeus.html" crc="355389373" seo="true" mt="1597700876270" redirect="true"/>
+  <file name="pandreijte.html" crc="474801190" seo="true" mt="1597257467419" redirect="true"/>
+  <file name="l-escault.html" crc="3762877542" seo="true" mt="1597700641000" redirect="true"/>
+  <file name="intramuros-1.html" crc="3868366914" seo="true" mt="1597256639434" redirect="true"/>
+  <file name="intramuros-2.html" crc="177076629" seo="true" mt="1597256639434" redirect="true"/>
 </manifest>
